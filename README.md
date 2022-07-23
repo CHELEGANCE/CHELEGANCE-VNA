@@ -1,3 +1,5 @@
 # JNCRadio-VNA-3G
 
-The software updates as following - 
+Firmware updating log -
+
+ [v1.0.2](./FIRMWARE(V1.0.2.zip))
