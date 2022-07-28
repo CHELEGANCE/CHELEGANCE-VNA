@@ -14,7 +14,7 @@
 
 - [v0.1.2_LATEST](FIRMWARE_SV4401A/SV4401A_App_0.1.2.zip)
 
-Notice you will need this [DRIVER](FIRMWARE_SV4401A/sv4401a_usb_cdc_driver.rar) if you are not using a win10.
+<span style="color:red">Notice you will need this [DRIVER](FIRMWARE_SV4401A/sv4401a_usb_cdc_driver.rar) if you are not using a win10.</span>
 
 # DESKTOP SOFTWARE PACKAGES
 
